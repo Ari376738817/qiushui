@@ -79,3 +79,4 @@ echo   2. 指定配置: api_manager.exe --config config.json
 echo.
 echo 按任意键退出...
 pause >nul
+
